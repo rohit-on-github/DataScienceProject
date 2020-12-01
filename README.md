@@ -7,3 +7,9 @@ DataScience Projects for Learning
 
 ## Classification
 ####	Titanic : Machine Learning From Disaster
+
+## Flask Project NLP
+####	Project on spelling correction
+
+## Django Sentiment Analyzer
+####	Project on Sentiment Analysis using Polarity
