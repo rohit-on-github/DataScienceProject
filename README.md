@@ -13,3 +13,6 @@ DataScience Projects for Learning
 
 ## Django Sentiment Analyzer
 ####	Project on Sentiment Analysis using Polarity
+
+## Computer Vision
+####	Digit Recogniser
